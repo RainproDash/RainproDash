@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name Rainprodash and I'm a student at Epitech Lyon</h2>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
