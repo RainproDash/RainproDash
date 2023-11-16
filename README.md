@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name Rainprodash and I'm a student at Epitech Lyon</h2>
+<h2 align="left">Hi 👋! My name is Rainprodash and I'm a student at Epitech Lyon</h2>
 
 ###
 
